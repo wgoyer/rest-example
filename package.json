@@ -1,0 +1,23 @@
+{
+  "name": "rest-example",
+  "version": "1.0.0",
+  "description": "Small example to make requests and parse responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgoyer/rest-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wgoyer/rest-example/issues"
+  },
+  "homepage": "https://github.com/wgoyer/rest-example#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
